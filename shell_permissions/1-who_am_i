@@ -1,2 +1,2 @@
 #!/bin/bash
-root@1583d857329b:/# whoami
+root whoami
